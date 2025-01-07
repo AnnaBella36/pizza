@@ -1,2 +1,3 @@
 "pizza file"
 "From local machine was added new file"
+"From local machine was edited this file"
