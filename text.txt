@@ -2,3 +2,4 @@
 "From local machine was added new file"
 "From local machine was edited this file"
 "from github was edited this file"
+"From local machine was edited this project"
